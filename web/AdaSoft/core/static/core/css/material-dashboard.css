@@ -3661,19 +3661,19 @@ fieldset:disabled .btn {
 
 .btn-primary {
   --bs-btn-color: #000;
-  --bs-btn-bg: #e91e63;
-  --bs-btn-border-color: #e91e63;
+  --bs-btn-bg: #4144fd;
+  --bs-btn-border-color: #4144fd;
   --bs-btn-hover-color: #000;
-  --bs-btn-hover-bg: #ec407a;
-  --bs-btn-hover-border-color: #eb3573;
+  --bs-btn-hover-bg: #4144fd;
+  --bs-btn-hover-border-color: #4144fd;
   --bs-btn-focus-shadow-rgb: 198, 26, 84;
   --bs-btn-active-color: #000;
-  --bs-btn-active-bg: #ed4b82;
-  --bs-btn-active-border-color: #eb3573;
+  --bs-btn-active-bg: #4144fd;
+  --bs-btn-active-border-color: #4144fd;
   --bs-btn-active-shadow: none;
   --bs-btn-disabled-color: #000;
-  --bs-btn-disabled-bg: #e91e63;
-  --bs-btn-disabled-border-color: #e91e63;
+  --bs-btn-disabled-bg: #4144fd;
+  --bs-btn-disabled-border-color: #4144fd;
 }
 
 .btn-secondary {
@@ -3813,17 +3813,17 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-primary {
-  --bs-btn-color: #e91e63;
-  --bs-btn-border-color: #e91e63;
+  --bs-btn-color: #3447f1;
+  --bs-btn-border-color: #3447f1;
   --bs-btn-hover-color: #000;
-  --bs-btn-hover-bg: #e91e63;
-  --bs-btn-hover-border-color: #e91e63;
+  --bs-btn-hover-bg: #3447f1;
+  --bs-btn-hover-border-color: #3447f1;
   --bs-btn-focus-shadow-rgb: 233, 30, 99;
   --bs-btn-active-color: #000;
-  --bs-btn-active-bg: #e91e63;
-  --bs-btn-active-border-color: #e91e63;
+  --bs-btn-active-bg: #3447f1;
+  --bs-btn-active-border-color: #3447f1;
   --bs-btn-active-shadow: none;
-  --bs-btn-disabled-color: #e91e63;
+  --bs-btn-disabled-color: #3447f1;
   --bs-btn-disabled-bg: transparent;
   --bs-gradient: none;
 }
@@ -3958,10 +3958,10 @@ fieldset:disabled .btn {
 
 .btn-link {
   --bs-btn-font-weight: 400;
-  --bs-btn-color: #e91e63;
+  --bs-btn-color: #3447f1;
   --bs-btn-bg: transparent;
   --bs-btn-border-color: transparent;
-  --bs-btn-hover-color: #e91e63;
+  --bs-btn-hover-color: #3447f1;
   --bs-btn-hover-border-color: transparent;
   --bs-btn-active-border-color: transparent;
   --bs-btn-disabled-color: #6c757d;
@@ -5140,11 +5140,11 @@ fieldset:disabled .btn {
   --bs-card-inner-border-radius: 0.75rem;
   --bs-card-cap-padding-y: 0.5rem;
   --bs-card-cap-padding-x: 1rem;
-  --bs-card-cap-bg: #fff;
-  --bs-card-cap-color: ;
+  --bs-card-cap-bg: rgb(255, 255, 255);
+  --bs-card-cap-color:rgb(18, 54, 214) ;
   --bs-card-height: ;
   --bs-card-color: ;
-  --bs-card-bg: #fff;
+  --bs-card-bg: rgb(255, 255, 255);
   --bs-card-img-overlay-padding: 1rem;
   --bs-card-group-margin: 0.75rem;
   position: relative;
@@ -22524,7 +22524,7 @@ label,
 }
 
 .bg-gradient-primary {
-  background-image: linear-gradient(195deg, #EC407A 0%, #D81B60 100%);
+  background-image: linear-gradient(195deg, #0575c4 0%, #0575c4 100%);
 }
 
 .bg-gradient-secondary {
